@@ -8,3 +8,11 @@ You will have to install python 3 on your pc.
 The program is an interactive bot on terminal.
 
 Your feedback will be highly appreciated.
+
+Contact details are:
+
+        TELEGRAM: @ceefoon
+
+        INSTAGRAM: @ceefoon
+
+        TWITTER: @ceefoon

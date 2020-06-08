@@ -1,18 +1,20 @@
 # WORKRATE
 Calculates the amount of time you will need to put in to make a certain amount of income annually.
 
-I got this idea from Dan Lok and decided to turn it into codes. 
+Idea from: Dan Lok
 
-You will have to install python 3 on your pc.
+#######################################################################
 
-The program is an interactive bot on terminal.
+REQUIREMENTS
+- Python 3.7 and above installed on your computer.
 
-Your feedback will be highly appreciated.
+#######################################################################
 
-Contact details are:
+PROCEDURES TO RUN
+- Run on terminal window
 
-        TELEGRAM: @ceefoon
+#######################################################################
 
-        INSTAGRAM: @ceefoon
+Leave comments.
 
-        TWITTER: @ceefoon
+Reach me on my social media handles.
